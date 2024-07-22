@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Batuhan</h1>
 <h3 align="center">I'm a mobile developer</h3>
 
-- 📫 How to reach me **3batuhankoc@gmail.com**
+-  **3batuhankoc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

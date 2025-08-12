@@ -1,6 +1,6 @@
 <h3 align="center">comp eng</h3>
 
-- mail **3batuhankoc@gmail.com**
+- mail **batuhnkc52@gmail.com**
 
 </p>
 
